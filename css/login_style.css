@@ -1,0 +1,27 @@
+.body{
+     
+      
+     background-size: cover;
+}
+.log_area{
+    width: 330px;
+    height: 450px;
+     color: white;
+        padding: 10px 10px 10px 40px;
+        margin: 0 auto;
+        border: 2px solid;
+        border-color: #65531e;;
+        position: relative;
+        background-color: rgba(0, 0, 0, 0.57);
+        margin-top: 70px;
+       
+}
+
+ 
+.bt{
+    padding: 20px 30px;
+}
+
+.mr-top-20{
+    margin-top: 20px;
+}

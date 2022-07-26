@@ -1,0 +1,44 @@
+.body{
+     
+    background-image: url("image/bg4.jpg");
+    background-repeat: no-repeat;
+     background-size: cover;
+}
+.log_area{
+        width: 330px;
+        height: 450px;
+        color: #2f2424;
+        padding: 0 10px 10px 40px;
+        margin: 0 auto;
+        border: 2px solid;
+        border-color: #efa6d4;;
+        position: relative;
+        background-color: rgba(202, 53, 53, 0.57);
+        box-shadow: 2px 5px 5px 5px #f1a8bb;
+        margin-top: 40px;
+       
+}
+ .tbl{
+    margin-top: 20px;
+ }
+
+ .left_block{
+    margin-top:20px;
+    background-size:  cover;
+    background-repeat: no-repeat;
+}
+
+.information{
+    padding: 20px;
+    margin-top:20px;
+    font-size:22px;
+    font-family:serif;
+
+}
+.bt{
+    padding: 20px 30px;
+}
+
+.mr-top-20{
+    margin-top: 20px;
+}
